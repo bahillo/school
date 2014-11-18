@@ -9,6 +9,8 @@ int main(int argc, char *argv[])
 
     qDebug()<<"Segundo cambio";
 
+    qDebug()<<"Tercer cambio";
+
 
 
 
