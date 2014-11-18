@@ -13,6 +13,8 @@ int main(int argc, char *argv[])
 
     qDebug()<<"primer cambio dentro del branch";
 
+    qDebug()<<"segundo cambio branch";
+
 
 
 
