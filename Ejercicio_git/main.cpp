@@ -13,6 +13,8 @@ int main(int argc, char *argv[])
 
     qDebug()<<"Version 1 Final";
 
+    //cambio prueba
+
 
 
 
